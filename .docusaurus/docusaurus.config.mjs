@@ -7,7 +7,7 @@ export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
-  "url": "https://github.com",
+  "url": "https://denzoenzo916.io",
   "baseUrl": "/docusaurus-deploy/",
   "organizationName": "denzoenzo916",
   "projectName": "docusaurus-deploy",
