@@ -8,7 +8,7 @@ export default {
   "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
   "url": "https://github.com",
-  "baseUrl": "/docusaurus-deploy/docs/",
+  "baseUrl": "/docusaurus-deploy/",
   "organizationName": "denzoenzo916",
   "projectName": "docusaurus-deploy",
   "deploymentBranch": "gh-pages",
